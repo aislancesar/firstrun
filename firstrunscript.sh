@@ -81,6 +81,10 @@ sudo apt-get install -y okular # ok
 
 sudo apt-get install -y python-pygame # ok
 
+# Install Java
+
+sudo apt install -y openjdk-8-jdk
+
 # Install Matplotlib
 
 sudo apt-get install -y python-matplotlib # ok
